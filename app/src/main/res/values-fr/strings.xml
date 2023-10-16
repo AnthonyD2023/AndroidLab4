@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLab4</string>
+    <string name="emailLabel">Tappez votre adresse email:</string>
+    <string name="emailInputHint">Tapper email ici</string>
+    <string name="passwordLabel">Tappez votre mot de passe:</string>
+    <string name="passwordInputHint">Tapper mot de passe ici</string>
+    <string name="loginButtonMessage">CONNECTEZ-VOUS</string>
+
+    <string name="phoneInputHint">Tapper numéro de téléphone</string>
+    <string name="phoneButtonMessage">TÉLÉPHONER</string>
+    <string name="imageButtonMessage">CHANGER D’IMAGE</string>
+</resources>
